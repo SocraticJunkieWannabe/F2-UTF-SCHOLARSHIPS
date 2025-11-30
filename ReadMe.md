@@ -1,1 +1,1 @@
-Hello World
+This is the github for the Scholarship Data Science Project
